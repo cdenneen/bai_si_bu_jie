@@ -1,5 +1,7 @@
-title: tags:
-
+---
+title:
+tags:
 layout: post
+---
 
 Chris test post

@@ -1,6 +1,0 @@
----
-title: 
-tags: 
-layout: post
----
-Honestly _pleonasm_ is ajust a superfluous word.
